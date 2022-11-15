@@ -2,4 +2,3 @@
 - 👀 I’m interested in Programming, Computer Sience, Gym, Books, Fashion, Music, Fantasy and Gaming
 - 🌱 I’m currently learning Databases
 - 💞️ I'm looking to collaborate on Python beginners friendly projects
-- 📫 How to reach me ...
