@@ -1,7 +1,7 @@
 # 👋 Hi stranger ! 
 
 Welcome to my profile.
-I'm Damian, junior backend developer, from Konin Poland ![Poland](https://img.icons8.com/color/24/poland-circular.png).
+I'm Damian, Junior Backend Developer, from Konin Poland ![Poland](https://img.icons8.com/color/24/poland-circular.png).
 
 ## About me : 
  For about two years, I worked as a Customer Service Manager. In the meantime, I developed my programming skills, specializing in Python and technologies such as Django. 
