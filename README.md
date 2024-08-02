@@ -13,13 +13,13 @@
   <a href="https://www.linkedin.com/in/damian-ignaczak-a5a403320/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+ 
   <a href="mailto:vaqowski@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
- <br>
- <br>
-  [![Static Badge](https://img.shields.io/badge/vaqowski%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaqowski@gmail.com)
 </p>
+
+[![Static Badge](https://img.shields.io/badge/vaqowski%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaqowski@gmail.com)
 
 
 
