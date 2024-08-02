@@ -17,10 +17,10 @@
    <a href="mailto:vaqowski@gmail.com" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
-</p>
+</p> [![Static Badge](https://img.shields.io/badge/vaqowski%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaqowski@gmail.com)
 
 
-[![Static Badge](https://img.shields.io/badge/vaqowski%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaqowski@gmail.com)
+
 
 
 
