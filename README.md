@@ -6,6 +6,7 @@
 <!-- About me section -->
 ## About me : 
  If you like tech, books, and games, it means that you are a Nerd. Just like me, lol. 
+ 
  I am developing my programming skills, specializing in Python and Django. 
  I am currently focusing on creating a project for my portfolio [TimeMate](https://github.com/vaqMAD/TimeMate)
  
