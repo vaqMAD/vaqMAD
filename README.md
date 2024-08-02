@@ -1,6 +1,6 @@
-# 👋 Hi stranger ! 
+# 👋 Hello World 
 
-Welcome to my profile.
+Hi stranger ! Welcome to my profile.
 I'm Damian, Junior Backend Developer, from Konin Poland ![Poland](https://img.icons8.com/color/20/poland-circular.png).
 
 ## About me : 
