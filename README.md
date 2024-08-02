@@ -37,4 +37,4 @@ I am also intrested in:
 
 And a bit of:
 
-![Static Badge](https://img.shields.io/badge/Clickup-%237B68EE?style=for-the-badge&logo=clickup&logoColor=white) and ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Clickup-%237B68EE?style=for-the-badge&logo=clickup&logoColor=white) ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white)
