@@ -17,10 +17,10 @@
 
 <!-- Techstack section -->
 ## Technologies I use
- [![My Skills](https://skillicons.dev/icons?i=py,django,postgres,git,github,docker,linux)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,django,postgres,git,github,docker,linux)]
 
 ## Technologies I am familiar with 
- [![Familiar with](https://skillicons.dev/icons?i=flask,html,css)](https://skillicons.dev)
+ [![Familiar with](https://skillicons.dev/icons?i=flask,html,css)]
 
 <!-- Plans to learn section -->
 ## Plans to learn 
