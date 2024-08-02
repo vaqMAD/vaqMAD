@@ -13,22 +13,17 @@
 [![Static Badge](https://img.shields.io/badge/vaqowski%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaqowski@gmail.com)
 
 ## Technologies I use
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django) ![Static Badge](https://img.shields.io/badge/Django%20Rest%20Framework-%23092E20?style=for-the-badge)  ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white) ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white) ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Static Badge](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,git,github,docker,linux)](https://skillicons.dev)
 
 ## Technologies I am familiar with 
-![Static Badge](https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white) ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=flask,html,css)](https://skillicons.dev)
 
 ## Plans to learn 
-![Static Badge](https://img.shields.io/badge/Redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white) ![Static Badge](https://img.shields.io/badge/Celery-%2337814A?style=for-the-badge&logo=celery&logoColor=white) 
 
-And some of these cloud services: 
 
-![Static Badge](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)  ![Static Badge](https://img.shields.io/badge/Google%20Cloud%20Platform-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  ![Static Badge](https://img.shields.io/badge/Azure-%230080ff?style=for-the-badge)
+And some of these cloud services: [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
-I am also intrested in:
-
-![Static Badge](https://img.shields.io/badge/GO-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
+I am also intrested in:  [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
 
 
 ## Software I used at work
