@@ -21,9 +21,11 @@
 ## Plans to learn 
 
 
-And some of these cloud services: [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
+And some of these cloud services: 
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
-I am also intrested in:  [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
+I am also intrested in:  
+[![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
 
 
 ## Software I used at work
