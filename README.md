@@ -41,6 +41,12 @@
 
 <!-- Greeting section -->
 ## Software I used at work
+|   |   |   |
+|---|---|---|
+| <img height="40" width="40" src="https://cdn.simpleicons.org/redmine/#B32024"/> | <img height="40" width="40" src="https://cdn.simpleicons.org/trello/#0052CC"/> | <img height="40" width="40" src="https://cdn.simpleicons.org/slack/#4A154B"/> |
+
+
+
 <span><img height="35" width="35" src="https://cdn.simpleicons.org/redmine/#B32024"/></span>
 <span><img height="35" width="35" src="https://cdn.simpleicons.org/trello/#0052CC"/></span>
 <span><img height="35" width="35" src="https://cdn.simpleicons.org/slack/#4A154B"/></span>
