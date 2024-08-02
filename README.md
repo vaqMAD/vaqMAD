@@ -9,7 +9,7 @@
  I am open to new career opportunities in both management and programming. In my free time, I am interested in modern technologies, books, and computer games. 
 
  ## Contact me : 
-[![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-ignaczak-a5a403320/) 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)(https://www.linkedin.com/in/damian-ignaczak-a5a403320/) 
 [![Static Badge](https://img.shields.io/badge/vaqowski%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaqowski@gmail.com)
 
 ## Technologies I use
