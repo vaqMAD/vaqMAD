@@ -17,22 +17,22 @@
 
 <!-- Techstack section -->
 ## Technologies I use
- [![My Skills](https://skillicons.dev/icons?i=py,django,postgres,git,github,docker,linux)]
+ [![My Skills](https://skillicons.dev/icons?i=py,django,postgres,git,github,docker,linux)]()
 
 ## Technologies I am familiar with 
- [![Familiar with](https://skillicons.dev/icons?i=flask,html,css)]
+ [![Familiar with](https://skillicons.dev/icons?i=flask,html,css)]()
 
 <!-- Plans to learn section -->
 ## Plans to learn 
- [![Plans to learn](https://skillicons.dev/icons?i=redis)]
+ [![Plans to learn](https://skillicons.dev/icons?i=redis)]()
 
  And some of these cloud services:
  
- [![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp)]
+ [![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp)]()
  
  I am also intrested in:  
  
- [![GO](https://skillicons.dev/icons?i=go)]
+ [![GO](https://skillicons.dev/icons?i=go)]()
 
 ## My environment 
  [![Environment](https://skillicons.dev/icons?i=pycharm,notion)
