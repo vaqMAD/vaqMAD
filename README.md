@@ -19,7 +19,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" style="display: inline-block;"/>
   </a>
 
- 
   [![Static Badge](https://img.shields.io/badge/vaqowski%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaqowski@gmail.com)
 </span>
 
