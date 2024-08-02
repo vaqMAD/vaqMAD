@@ -24,7 +24,7 @@
 
 <!-- Plans to learn section -->
 ## Plans to learn 
- [![Plans to learn](https://skillicons.dev/icons?i=redis)]() <span> <img height="32" width="32" src="https://cdn.simpleicons.org/celery/#37814A"/> </span>
+ [![Plans to learn](https://skillicons.dev/icons?i=redis)]() <span> <img height="50" width="50" src="https://cdn.simpleicons.org/celery/#37814A"/> </span>
 
 
  And some of these cloud services:
