@@ -29,4 +29,6 @@ I am also intrested in ![Static Badge](https://img.shields.io/badge/GO-%2300ADD8
 
 
 ## Software I used at work
-![Static Badge](https://img.shields.io/badge/Redmine-%23B32024?style=for-the-badge&logo=redmine&logoColor=white) ![Static Badge](https://img.shields.io/badge/Trello-%230052CC?style=for-the-badge&logo=trello&logoColor=white)   ![Static Badge](https://img.shields.io/badge/Slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white)  A bit of ![Static Badge](https://img.shields.io/badge/Clickup-%237B68EE?style=for-the-badge&logo=clickup&logoColor=white) and ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Redmine-%23B32024?style=for-the-badge&logo=redmine&logoColor=white) ![Static Badge](https://img.shields.io/badge/Trello-%230052CC?style=for-the-badge&logo=trello&logoColor=white)   ![Static Badge](https://img.shields.io/badge/Slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white)  
+
+A bit of ![Static Badge](https://img.shields.io/badge/Clickup-%237B68EE?style=for-the-badge&logo=clickup&logoColor=white) and ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white)
