@@ -13,8 +13,11 @@
   <a href="https://www.linkedin.com/in/damian-ignaczak-a5a403320/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="mailto:vaqowski@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+ [![Static Badge](https://img.shields.io/badge/vaqowski%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaqowski@gmail.com)
 </p>
-[![Static Badge](https://img.shields.io/badge/vaqowski%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaqowski@gmail.com)
 
 ## Technologies I use
 [![My Skills](https://skillicons.dev/icons?i=py,django,postgres,git,github,docker,linux)](https://skillicons.dev)
