@@ -41,13 +41,13 @@
 
 <!-- Greeting section -->
 ## Software I used at work
-<span> <img height="35" width="35" src="https://cdn.simpleicons.org/redmine/#B32024" style="margin-right: 10px;"/> </span>
-<span> <img height="35" width="35" src="https://cdn.simpleicons.org/trello/#0052CC" style="margin-right: 10px;"/> </span>
-<span> <img height="35" width="35" src="https://cdn.simpleicons.org/slack/#4A154B" style="margin-right: 10px;"/> </span>
+<span><img height="35" width="35" src="https://cdn.simpleicons.org/redmine/#B32024"/></span>
+<span><img height="35" width="35" src="https://cdn.simpleicons.org/trello/#0052CC"/></span>
+<span><img height="35" width="35" src="https://cdn.simpleicons.org/slack/#4A154B"/></span>
 
-
- ![Static Badge](https://img.shields.io/badge/Redmine-%23B32024?style=for-the-badge&logo=redmine&logoColor=white) ![Static Badge](https://img.shields.io/badge/Trello-%230052CC?style=for-the-badge&logo=trello&logoColor=white)   ![Static Badge](https://img.shields.io/badge/Slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white)  
+  
  
  And a bit of:
- 
- ![Static Badge](https://img.shields.io/badge/Clickup-%237B68EE?style=for-the-badge&logo=clickup&logoColor=white) ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white)
+ <span><img height="35" width="35" src="https://cdn.simpleicons.org/clickup/#7B68EE"/></span>
+ <span><img height="35" width="35" src="https://cdn.simpleicons.org/jira/#0052CC"/></span>
+
