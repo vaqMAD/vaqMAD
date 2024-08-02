@@ -13,7 +13,8 @@
   <a href="https://www.linkedin.com/in/damian-ignaczak-a5a403320/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
- 
+    
+  
   <a href="mailto:vaqowski@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
