@@ -42,7 +42,9 @@
 <!-- Greeting section -->
 ## Software I used at work
 <span> <img height="35" width="35" src="https://cdn.simpleicons.org/redmine/#B32024" style="margin: 10px;"/> </span>
+<span> </span>
 <span> <img height="35" width="35" src="https://cdn.simpleicons.org/trello/#0052CC" style="margin: 10px;"/> </span>
+<span> </span>
 <span> <img height="35" width="35" src="https://cdn.simpleicons.org/slack/#4A154B" style="margin: 10px;"/> </span>
 
 
