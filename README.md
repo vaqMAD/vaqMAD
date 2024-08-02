@@ -1,4 +1,4 @@
-<h1>🌠 Top Sponsors</h1>
+<h1>👋 Hello World/h1>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=3A41E4&width=435&lines=Hi+stranger+!;Welcome+to+my+profile;I'm+Damian%2C+Junior+Backend+Developer+;+from+Konin+Poland+)](https://git.io/typing-svg)
