@@ -24,7 +24,10 @@
 
 <!-- Plans to learn section -->
 ## Plans to learn 
- [![Plans to learn](https://skillicons.dev/icons?i=redis)]()
+ [![Plans to learn](https://skillicons.dev/icons?i=redis)]() ![Static Badge](https://img.shields.io/badge/Celery-%2337814A?style=for-the-badge&logo=celery&logoColor=white)
+
+
+ 
 
  And some of these cloud services:
  
