@@ -41,9 +41,6 @@
 
 <!-- Greeting section -->
 ## Software I used at work
-<span style="margin-right: 10px;"> <img height="40" width="40" src="https://cdn.simpleicons.org/redmine/#B32024"/> </span>
-<span style="margin-right: 10px;"> <img height="40" width="40" src="https://cdn.simpleicons.org/trello/#0052CC"/> </span>
-<span style="margin-right: 10px;"> <img height="40" width="40" src="https://cdn.simpleicons.org/slack/#4A154B"/> </span>
 
 
 <span><img height="35" width="35" src="https://cdn.simpleicons.org/redmine/#B32024"/></span>
@@ -51,9 +48,7 @@
 <span><img height="35" width="35" src="https://cdn.simpleicons.org/slack/#4A154B"/></span>
 
   
- 
  And a bit of:
  
  <span><img height="35" width="35" src="https://cdn.simpleicons.org/clickup/#7B68EE"/></span>
  <span><img height="35" width="35" src="https://cdn.simpleicons.org/jira/#0052CC"/></span>
-
