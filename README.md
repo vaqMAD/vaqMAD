@@ -48,6 +48,7 @@
   
  
  And a bit of:
+ 
  <span><img height="35" width="35" src="https://cdn.simpleicons.org/clickup/#7B68EE"/></span>
  <span><img height="35" width="35" src="https://cdn.simpleicons.org/jira/#0052CC"/></span>
 
