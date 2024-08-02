@@ -1,6 +1,6 @@
 # 👋 Hello World 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=3A41E4&center=true&vCenter=true&width=435&lines=Hi+stranger+!;Welcome+to+my+profile;I'm+Damian%2C+Junior+Backend+Developer+;+from+Konin+Poland+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=3A41E4&width=435&lines=Hi+stranger+!;Welcome+to+my+profile;I'm+Damian%2C+Junior+Backend+Developer+;+from+Konin+Poland+)](https://git.io/typing-svg)
 
 ## About me : 
  For about two years, I worked as a Customer Service Manager. In the meantime, I developed my programming skills, specializing in Python and technologies such as Django. 
