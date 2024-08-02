@@ -21,7 +21,8 @@ I'm Damian, Junior Backend Developer, from Konin Poland ![Poland](https://img.ic
 ![Static Badge](https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white) ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Plans to learn 
-No sql : ![Static Badge](https://img.shields.io/badge/Redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white)   , celery : ![Static Badge](https://img.shields.io/badge/Celery-%2337814A?style=for-the-badge&logo=celery&logoColor=white)  , some of these cloud services : ![Static Badge](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) , ![Static Badge](https://img.shields.io/badge/Google%20Cloud%20Platform-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white) , ![Static Badge](https://img.shields.io/badge/Azure-%230080ff?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white) ![Static Badge](https://img.shields.io/badge/Celery-%2337814A?style=for-the-badge&logo=celery&logoColor=white) 
+And some of these cloud services : ![Static Badge](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) , ![Static Badge](https://img.shields.io/badge/Google%20Cloud%20Platform-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white) , ![Static Badge](https://img.shields.io/badge/Azure-%230080ff?style=for-the-badge)
 
 I am also intrested in ![Static Badge](https://img.shields.io/badge/GO-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
 
