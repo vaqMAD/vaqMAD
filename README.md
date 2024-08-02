@@ -5,11 +5,10 @@
 
 <!-- About me section -->
 ## About me : 
- For about two years, I worked as a Customer Service Manager. In the meantime, I developed my programming skills, specializing in Python and technologies such as Django. 
+ If you like tech, books, and games, it means that you are a Nerd. Just like me, lol. 
+ I am developing my programming skills, specializing in Python and Django. 
  I am currently focusing on creating a project for my portfolio [TimeMate](https://github.com/vaqMAD/TimeMate)
  
- I am open to new career opportunities in both management and programming. In my free time, I am interested in modern technologies, books, and computer games. 
-
  ## Contact me : 
   [![Linkedin Icon](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/damian-ignaczak-a5a403320/) [![Email Icon](https://skillicons.dev/icons?i=gmail)](mailto:vaqowski@gmail.com) 
   
