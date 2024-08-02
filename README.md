@@ -36,7 +36,7 @@
  [![GO](https://skillicons.dev/icons?i=go)]()
 
 ## My environment 
- [![Environment](https://skillicons.dev/icons?i=pycharm,notion)]()
+ [![Environment](https://skillicons.dev/icons?i=pycharm,notion,vscode,windows)]()
 
 
 <!-- Greeting section -->
