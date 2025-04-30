@@ -29,7 +29,7 @@
  [![Plans to learn](https://skillicons.dev/icons?i=redis)]() <span> <img height="48" width="48" src="https://cdn.simpleicons.org/celery"/> </span>
 
 
- And some of these cloud services:
+ And I have plans to learn some of these cloud services:
  
  [![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp)]()
  
