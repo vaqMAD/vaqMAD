@@ -45,12 +45,12 @@
 ## Software I used at my previous work
 
 
-<span><img height="35" width="35" src="https://cdn.simpleicons.org/redmine"/></span>
-<span><img height="35" width="35" src="https://cdn.simpleicons.org/trello"/></span>
-<span><img height="35" width="35" src="https://cdn.simpleicons.org/slack"/></span>
+<span>Redmine<img height="35" width="35" src="https://cdn.simpleicons.org/redmine"/></span>
+<span>Trello<img height="35" width="35" src="https://cdn.simpleicons.org/trello"/></span>
+<span>Slack<img height="35" width="35" src="https://cdn.simpleicons.org/slack"/></span>
 
   
  And a bit of:
  
- <span><img height="35" width="35" src="https://cdn.simpleicons.org/clickup"/></span>
- <span><img height="35" width="35" src="https://cdn.simpleicons.org/jira"/></span>
+ <span>Clickup<img height="35" width="35" src="https://cdn.simpleicons.org/clickup"/></span>
+ <span>Jira<img height="35" width="35" src="https://cdn.simpleicons.org/jira"/></span>
