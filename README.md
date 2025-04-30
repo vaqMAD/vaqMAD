@@ -44,22 +44,14 @@
 <!-- Greeting section -->
 ## Software I used at my previous work
 
-
-<span>
-Redmine
-<img height="35" width="35" src="https://cdn.simpleicons.org/redmine"/>
-</span>
-<span>
-Trello
-<img height="35" width="35" src="https://cdn.simpleicons.org/trello"/>
-</span>
-<span>
-Slack
-<img height="35" width="35" src="https://cdn.simpleicons.org/slack"/>
-</span>
+Redmine, Trello, and slack
+<span><img height="35" width="35" src="https://cdn.simpleicons.org/redmine"/></span>
+<span><img height="35" width="35" src="https://cdn.simpleicons.org/trello"/></span>
+<span><img height="35" width="35" src="https://cdn.simpleicons.org/slack"/></span>
 
   
  And a bit of:
  
+ Clickup, Jira
  <span>Clickup<img height="35" width="35" src="https://cdn.simpleicons.org/clickup"/></span>
  <span>Jira<img height="35" width="35" src="https://cdn.simpleicons.org/jira"/></span>
