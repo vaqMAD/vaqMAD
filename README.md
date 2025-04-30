@@ -5,7 +5,7 @@
 
 <!-- About me section -->
 ## About me : 
- If you like tech, books, and games, it means that you are a Nerd. Just like me, lol 🤓😉 
+ If you're into tech, books, and games, you're probably a nerd — just like me, let's connect ! 🤓
  
  I am developing my programming skills, specializing in Python and Django. 
  
