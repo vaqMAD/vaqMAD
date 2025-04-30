@@ -45,6 +45,8 @@
 ## Software I used at my previous work
 
 Redmine, Trello, and slack
+
+
 <span><img height="35" width="35" src="https://cdn.simpleicons.org/redmine"/></span>
 <span><img height="35" width="35" src="https://cdn.simpleicons.org/trello"/></span>
 <span><img height="35" width="35" src="https://cdn.simpleicons.org/slack"/></span>
