@@ -57,5 +57,5 @@ Redmine, Trello, and slack
  Clickup, Jira
 
  
- <span>Clickup<img height="35" width="35" src="https://cdn.simpleicons.org/clickup"/></span>
- <span>Jira<img height="35" width="35" src="https://cdn.simpleicons.org/jira"/></span>
+ <span><img height="35" width="35" src="https://cdn.simpleicons.org/clickup"/></span>
+ <span><img height="35" width="35" src="https://cdn.simpleicons.org/jira"/></span>
