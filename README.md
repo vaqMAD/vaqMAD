@@ -5,7 +5,7 @@
 
 <!-- About me section -->
 ## About me :  
- I am developing my programming skills, specializing in Python and Django. 
+ Developing programming skills, specializing in Python and Django. 
  
  Currently focusing on creating a project for my portfolio [TimeMate](https://github.com/vaqMAD/TimeMate)
 
