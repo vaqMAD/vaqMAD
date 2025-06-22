@@ -4,9 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=3A41E4&width=435&lines=Hi+stranger+!;Welcome+to+my+profile;I'm+Damian%2C+Junior+Backend+Developer+;+from+Konin+Poland+)](https://git.io/typing-svg)
 
 <!-- About me section -->
-## About me : 
- If you're into tech, books, and games, you're probably a nerd — just like me, let's connect ! 🤓
- 
+## About me :  
  I am developing my programming skills, specializing in Python and Django. 
  
  Currently focusing on creating a project for my portfolio [TimeMate](https://github.com/vaqMAD/TimeMate)
