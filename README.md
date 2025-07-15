@@ -6,7 +6,7 @@
 <!-- About me section -->
 ## About me :  
 For a few years, I worked as a manager in a SaaS startup. I've seen it all: burning deadlines, client calls at weird hours, and the magical mystery of a Wi-Fi printer that refuses to cooperate.
-I like to break down and build things with code. I believe there are 10 types of people in the world: those who understand binary, and those who don't.
+I like to break down and build things with code and believe there are 10 types of people in the world: those who understand binary, and those who don't.
 
 Developing programming skills, specializing in Python and Django. 
 Currently focusing on creating a project for my portfolio [TimeMate](https://github.com/vaqMAD/TimeMate)
