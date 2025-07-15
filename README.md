@@ -25,8 +25,7 @@ This is my current pride and joy – an API-first backend for time tracking. It'
 
 ---
 
-<!-- Techstack section -->
-## My Tech Stack
+## 🛠️ My Tech Stack
 Here's a snapshot of the tools I use. This list is always evolving.
 
 | Backend           | Databases & Caching | Testing & CI/CD          | Tools & Other       |
@@ -63,7 +62,9 @@ I am also intrested in:
 
 ##  📫 Get In Touch:
 Feel free to reach out. I'm always open to chat about tech, new opportunities, or the meaning of life
+
 [![Linkedin Icon](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/damian-ignaczak/) [![Email Icon](https://skillicons.dev/icons?i=gmail)](mailto:damian.ignaczak.dev@gmail.com) 
+
 * **Email:** damian.ignaczak.dev@gmail.com
 * **LinkedIn:** [(https://www.linkedin.com/in/damian-ignaczak/)](https://www.linkedin.com/in/damian-ignaczak/)
 
