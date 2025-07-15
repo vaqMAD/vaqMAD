@@ -36,30 +36,21 @@ Here's a snapshot of the tools I use. This list is always evolving.
 | Django REST FW    |                     | CI/CD (basics)           | Linux               |
 | Celery (learning) |                     |                          | Design Patterns     |
 
-| **Daily Drivers** | **On My Radar (Learning)** |
-| :--- | :--- |
-| ![Python](https://skillicons.dev/icons?i=py) `Python` | ![Celery](https://cdn.simpleicons.org/celery/white)  `Celery` |
-| ![Django](https://skillicons.dev/icons?i=django) `Django` | ![Go](https://skillicons.dev/icons?i=go) `Go` |
-| ![PostgreSQL](https://skillicons.dev/icons?i=postgres) `PostgreSQL` | ![AWS](https://skillicons.dev/icons?i=aws) `AWS` |
-| ![Docker](https://skillicons.dev/icons?i=docker) `Docker` | |
-| ![Git](https://skillicons.dev/icons?i=git) `Git & GitHub` | |
-| ![Linux](https://skillicons.dev/icons?i=linux) `Linux` | |
-| ![PyCharm](https://skillicons.dev/icons?i=pycharm) `PyCharm` | |
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,postgres,git,github,docker,linux)]()
+[![My Skills](https://skillicons.dev/icons?i=flask,html,css)]()
 
-## Technologies I am familiar with 
-[![Familiar with](https://skillicons.dev/icons?i=flask,html,css)]()
-
-## Learning
+### On My Radar (Learning)
 [![Plans to learn](https://skillicons.dev/icons?i=redis)]() <span> <img height="48" width="48" src="https://cdn.simpleicons.org/celery"/> </span>
 
 And I have plans to learn some of these cloud services:
+
 [![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp)]()
+
 I am also intrested in:  
 [![GO](https://skillicons.dev/icons?i=go)]()
 
-## My environment 
+### My environment 
 [![Environment](https://skillicons.dev/icons?i=pycharm,notion,vscode)]()
 
 ---
@@ -71,8 +62,8 @@ I am also intrested in:
 ---
 
 ##  📫 Get In Touch:
+Feel free to reach out. I'm always open to chat about tech, new opportunities, or the meaning of life
 [![Linkedin Icon](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/damian-ignaczak/) [![Email Icon](https://skillicons.dev/icons?i=gmail)](mailto:damian.ignaczak.dev@gmail.com) 
- 
 * **Email:** damian.ignaczak.dev@gmail.com
 * **LinkedIn:** [(https://www.linkedin.com/in/damian-ignaczak/)](https://www.linkedin.com/in/damian-ignaczak/)
 
