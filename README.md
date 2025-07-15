@@ -48,9 +48,6 @@ And I have plans to learn some of these cloud services:
 I am also intrested in:  
 [![GO](https://skillicons.dev/icons?i=go)]()
 
-### My environment 
-[![Environment](https://skillicons.dev/icons?i=pycharm,notion,vscode)]()
-
 ---
 
 ## 🌱 Side Quests & Achievements
