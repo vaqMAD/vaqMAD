@@ -11,8 +11,6 @@ That's why I'm here. I'm a **Python Developer** specializing in **Django**, and 
 Oh, and I firmly believe there are 10 types of people in the world: those who understand binary, and those who don't.
 
 
-Currently focusing on creating a project for my portfolio [TimeMate](https://github.com/vaqMAD/TimeMate)
-
 ## 🚀 Main Project: [TimeMate](https://github.com/vaqMAD/TimeMate)
 
 Every developer has that one topic that gives them nightmares. For me, it was dealing with datetime. So, I did the most logical thing: I built an entire API-first time tracking backend to finally make peace with it. This project is the result of that journey.
