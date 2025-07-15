@@ -54,7 +54,7 @@
 
 ## 🌱 Other Noteworthy Things
 
-* **Real-World Problem Solving:** Created a **[Redmine Onboarding Automation PoC](https://github.com/vaqMAD/Redmine_Onboarding_Automation_PoC)** at my previous company to automate a time-consuming process, reducing manual steps from ~80 to 2 and saving hours of work.
+* **Real-World Problem Solving:** Created a **Redmine Onboarding Automation PoC** at my previous company to automate a time-consuming process, reducing manual steps from ~80 to 2 and saving hours of work.
 * **Open Source Contribution:** I'm proud to have contributed to the Django ecosystem by identifying and reporting a gap in the official documentation, which led to its improvement ([Ticket #36026](https://code.djangoproject.com/ticket/36026)).
 
 ---
