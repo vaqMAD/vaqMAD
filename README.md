@@ -1,7 +1,7 @@
 <!-- Greeting section -->
 # 👋 Hello World
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=ff9900&width=435&lines=Hi+stranger+!;Welcome+to+my+profile;I'm+Damian%2C+Junior+Backend+Developer+;+from+Konin+Poland+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=FF9900&width=435&lines=Hi+stranger+!;Welcome+to+my+profile;I'm+Damian%2C+Junior+Backend+Developer+;+from+Konin+Poland+)](https://git.io/typing-svg)
 
 <!-- About me section -->
 ## TL;DR: I build things with code. 
