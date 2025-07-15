@@ -13,8 +13,6 @@
  ##  📫 Get In Touch:
   [![Linkedin Icon](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/damian-ignaczak/) [![Email Icon](https://skillicons.dev/icons?i=gmail)](mailto:damian.ignaczak.dev@gmail.com) 
  
-  [![Email Badge](https://img.shields.io/badge/vaqowski%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damian.ignaczak.dev@gmail.com)
-
   * **Email:** damian.ignaczak.dev@gmail.com
   * **LinkedIn:** [(https://www.linkedin.com/in/damian-ignaczak/)](https://www.linkedin.com/in/damian-ignaczak/)
 
@@ -48,7 +46,7 @@
 
 | Backend        | Databases & Caching | Testing & CI/CD          | Tools & Other       |
 | -------------- | ------------------- | ------------------------ | ------------------- |
-| Python         | PostgreSQL          | Pytest                   | Docker              |
+| [![My Skills](https://skillicons.dev/icons?i=py)]()Python         | PostgreSQL          | Pytest                   | Docker              |
 | Django         | Redis               | Unit & Integration Tests | Git & GitHub        |
 | Django REST FW |                     | CI/CD (basics)           | Linux               |
 | Celery (learning) |                  |                          |                     |
