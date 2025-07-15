@@ -10,6 +10,7 @@ For a few years, I worked as a manager in a SaaS startup. I've seen it all: burn
 That's why I'm here. I'm a **Python Developer** specializing in **Django**, and I love turning complex problems into clean, efficient code.
 Oh, and I firmly believe there are 10 types of people in the world: those who understand binary, and those who don't.
 
+---
 
 ## 🚀 Main Project: [TimeMate](https://github.com/vaqMAD/TimeMate)
 
