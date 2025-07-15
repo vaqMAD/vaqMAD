@@ -15,6 +15,7 @@ Oh, and I firmly believe there are 10 types of people in the world: those who un
 ## 🚀 Main Project: [TimeMate](https://github.com/vaqMAD/TimeMate)
 
 Every developer has that one topic that gives them nightmares. For me, it was dealing with datetime. So, I did the most logical thing: I built an entire API-first time tracking backend to finally make peace with it. This project is the result of that journey.
+Built from scratch, not a tutorial clone.
 **Highlights:**
 * **Architecture:** Clean, modular, and built on SOLID principles.
 * **Performance:** Intelligent caching with Redis.
