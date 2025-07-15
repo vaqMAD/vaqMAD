@@ -37,11 +37,11 @@ Here's a snapshot of the tools I use. This list is always evolving.
 | Celery (learning) |                     |                          | Design Patterns     |
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,git,github,docker,linux)]()
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,git,github,docker,redis,linux)]()
 [![My Skills](https://skillicons.dev/icons?i=flask,html,css)]()
 
 ### On My Radar (Learning)
-[![Plans to learn](https://skillicons.dev/icons?i=redis)]() <span> <img height="48" width="48" src="https://cdn.simpleicons.org/celery"/> </span>
+* <span> <img height="48" width="48" src="https://cdn.simpleicons.org/celery"/> </span> Celery
 
 And I have plans to learn some of these cloud services:
 
