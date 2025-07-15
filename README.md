@@ -5,10 +5,12 @@
 
 <!-- About me section -->
 ## About me :  
+For a few years, I worked as a manager in a SaaS startup. I've seen it all: burning deadlines, client calls at weird hours, and the magical mystery of a Wi-Fi printer that refuses to cooperate.
+I like to break down and build things with code. I believe there are 10 types of people in the world: those who understand binary, and those who don't.
+
 Developing programming skills, specializing in Python and Django. 
 Currently focusing on creating a project for my portfolio [TimeMate](https://github.com/vaqMAD/TimeMate)
 
- 
 ##  📫 Get In Touch:
 [![Linkedin Icon](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/damian-ignaczak/) [![Email Icon](https://skillicons.dev/icons?i=gmail)](mailto:damian.ignaczak.dev@gmail.com) 
  
@@ -17,6 +19,8 @@ Currently focusing on creating a project for my portfolio [TimeMate](https://git
 
 <!-- Techstack section -->
 ## My Tech Stack
+Here's the tech I work with daily. I'm always learning, so this list is more of a "snapshot" than a "final version".
+
 | Backend           | Databases & Caching | Testing & CI/CD          | Tools & Other       |
 | ----------------- | ------------------- | ------------------------ | ------------------- |
 | Python            | PostgreSQL          | Pytest                   | Docker              |
@@ -43,8 +47,6 @@ I am also intrested in:
 ---
 
 ## 🌱 Other Noteworthy Things
-
-* **Real-World Problem Solving:** Created a **Redmine Onboarding Automation PoC** at my previous company to automate a time-consuming process, reducing manual steps from ~80 to 2 and saving hours of work.
-* **Open Source Contribution:** Will Open Source save the world ? I don't know, but I'm proud to have small contribution to the Django ecosystem by identifying and reporting a gap in the official documentation, which led to its improvement ([Ticket #36026](https://code.djangoproject.com/ticket/36026)).
+* **Open Source Contribution:** Will Open Source save the world ? I don't know ... But I'm proud to have small contribution to the Django ecosystem by identifying and reporting a gap in the official documentation, which led to its improvement ([Ticket #36026](https://code.djangoproject.com/ticket/36026)).
 
 ---
