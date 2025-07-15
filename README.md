@@ -4,22 +4,30 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=3A41E4&width=435&lines=Hi+stranger+!;Welcome+to+my+profile;I'm+Damian%2C+Junior+Backend+Developer+;+from+Konin+Poland+)](https://git.io/typing-svg)
 
 <!-- About me section -->
-## About me :  
-For a few years, I worked as a manager in a SaaS startup. I've seen it all: burning deadlines, client calls at weird hours, and the magical mystery of a Wi-Fi printer that refuses to cooperate.
-I like to break down and build things with code and believe there are 10 types of people in the world: those who understand binary, and those who don't.
+## TL;DR: I build things with code. 
+For a few years, I worked as a manager in a SaaS startup. I've seen it all: burning deadlines, client calls at weird hours, and the magical mystery of a Wi-Fi printer that refuses to cooperate. It was fun, but I realized I prefer breaking down and building things myself.
 
-Developing programming skills, specializing in Python and Django. 
+That's why I'm here. I'm a **Python Developer** specializing in **Django**, and I love turning complex problems into clean, efficient code.
+Oh, and I firmly believe there are 10 types of people in the world: those who understand binary, and those who don't.
+
+
 Currently focusing on creating a project for my portfolio [TimeMate](https://github.com/vaqMAD/TimeMate)
 
-##  📫 Get In Touch:
-[![Linkedin Icon](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/damian-ignaczak/) [![Email Icon](https://skillicons.dev/icons?i=gmail)](mailto:damian.ignaczak.dev@gmail.com) 
- 
-* **Email:** damian.ignaczak.dev@gmail.com
-* **LinkedIn:** [(https://www.linkedin.com/in/damian-ignaczak/)](https://www.linkedin.com/in/damian-ignaczak/)
+## 🚀 Main Project: [TimeMate](https://github.com/vaqMAD/TimeMate)
+
+This is my current pride and joy – an API-first backend for time tracking. It's my answer to the question "what happens when you get obsessed with time objects in Python?".
+
+**Highlights:**
+* **Architecture:** Clean, modular, and built on SOLID principles.
+* **Performance:** Intelligent caching with Redis.
+* **Reliability:** 99% test coverage. If it breaks, it's a feature. 😉
+* **Security:** UUIDs, database constraints, and custom permissions.
+
+---
 
 <!-- Techstack section -->
 ## My Tech Stack
-Here's the tech I work with daily. I'm always learning, so this list is more of a "snapshot" than a "final version".
+Here's a snapshot of the tools I use. This list is always evolving.
 
 | Backend           | Databases & Caching | Testing & CI/CD          | Tools & Other       |
 | ----------------- | ------------------- | ------------------------ | ------------------- |
@@ -27,6 +35,16 @@ Here's the tech I work with daily. I'm always learning, so this list is more of 
 | Django            | Redis               | Unit & Integration Tests | Git & GitHub        |
 | Django REST FW    |                     | CI/CD (basics)           | Linux               |
 | Celery (learning) |                     |                          | Design Patterns     |
+
+| **Daily Drivers** | **On My Radar (Learning)** |
+| :--- | :--- |
+| ![Python](https://skillicons.dev/icons?i=py) `Python` | ![Celery](https://cdn.simpleicons.org/celery/white) `Celery` |
+| ![Django](https://skillicons.dev/icons?i=django) `Django` | ![Go](https://skillicons.dev/icons?i=go) `Go` |
+| ![PostgreSQL](https://skillicons.dev/icons?i=postgres) `PostgreSQL` | ![AWS](https://skillicons.dev/icons?i=aws) `AWS` |
+| ![Docker](https://skillicons.dev/icons?i=docker) `Docker` | |
+| ![Git](https://skillicons.dev/icons?i=git) `Git & GitHub` | |
+| ![Linux](https://skillicons.dev/icons?i=linux) `Linux` | |
+| ![PyCharm](https://skillicons.dev/icons?i=pycharm) `PyCharm` | |
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,postgres,git,github,docker,linux)]()
 
@@ -46,7 +64,16 @@ I am also intrested in:
 
 ---
 
-## 🌱 Other Noteworthy Things
-* **Open Source Contribution:** Will Open Source save the world ? I don't know ... But I'm proud to have small contribution to the Django ecosystem by identifying and reporting a gap in the official documentation, which led to its improvement ([Ticket #36026](https://code.djangoproject.com/ticket/36026)).
+## 🌱 Side Quests & Achievements
+
+* **Open Source Contribution:** Will Open Source save the world? I don't know... But I'm proud to have a small contribution to the Django ecosystem by improving the official documentation ([Ticket #36026](https://code.djangoproject.com/ticket/36026)).
+
+---
+
+##  📫 Get In Touch:
+[![Linkedin Icon](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/damian-ignaczak/) [![Email Icon](https://skillicons.dev/icons?i=gmail)](mailto:damian.ignaczak.dev@gmail.com) 
+ 
+* **Email:** damian.ignaczak.dev@gmail.com
+* **LinkedIn:** [(https://www.linkedin.com/in/damian-ignaczak/)](https://www.linkedin.com/in/damian-ignaczak/)
 
 ---
