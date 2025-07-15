@@ -10,10 +10,13 @@
  Currently focusing on creating a project for my portfolio [TimeMate](https://github.com/vaqMAD/TimeMate)
 
  
- ## Contact me : 
-  [![Linkedin Icon](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/damian-ignaczak-a5a403320/) [![Email Icon](https://skillicons.dev/icons?i=gmail)](mailto:vaqowski@gmail.com) 
-  
-  [![Email Badge](https://img.shields.io/badge/vaqowski%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaqowski@gmail.com)
+ ##  📫 Get In Touch:
+  [![Linkedin Icon](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/damian-ignaczak/) [![Email Icon](https://skillicons.dev/icons?i=gmail)](mailto:damian.ignaczak.dev@gmail.com) 
+ 
+  [![Email Badge](https://img.shields.io/badge/vaqowski%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damian.ignaczak.dev@gmail.com)
+
+  * **Email:** damian.ignaczak.dev@gmail.com
+  * **LinkedIn:** [(https://www.linkedin.com/in/damian-ignaczak/)](https://www.linkedin.com/in/damian-ignaczak/)
 
 <!-- Techstack section -->
 ## Technologies I use
@@ -58,11 +61,6 @@
 * **Open Source Contribution:** I'm proud to have contributed to the Django ecosystem by identifying and reporting a gap in the official documentation, which led to its improvement ([Ticket #36026](https://code.djangoproject.com/ticket/36026)).
 
 ---
-
-## 📫 Get In Touch
-
-* **LinkedIn:** [[linkedin.com/in/damian-ignaczak-dev](https://www.linkedin.com/in/damian-ignaczak-dev)](https://www.linkedin.com/in/damian-ignaczak/)
-* **Email:** damian.ignaczak.dev@gmail.com
 
 
 <!-- Greeting section -->
