@@ -38,7 +38,7 @@ Here's a snapshot of the tools I use. This list is always evolving.
 
 | **Daily Drivers** | **On My Radar (Learning)** |
 | :--- | :--- |
-| ![Python](https://skillicons.dev/icons?i=py) `Python` | ![Celery](https://cdn.simpleicons.org/celery/white) `Celery` |
+| ![Python](https://skillicons.dev/icons?i=py) `Python` | ![Celery](https://cdn.simpleicons.org/celery/white)  `Celery` |
 | ![Django](https://skillicons.dev/icons?i=django) `Django` | ![Go](https://skillicons.dev/icons?i=go) `Go` |
 | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) `PostgreSQL` | ![AWS](https://skillicons.dev/icons?i=aws) `AWS` |
 | ![Docker](https://skillicons.dev/icons?i=docker) `Docker` | |
