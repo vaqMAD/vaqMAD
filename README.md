@@ -41,7 +41,7 @@ Here's a snapshot of the tools I use. This list is always evolving.
 [![My Skills](https://skillicons.dev/icons?i=flask,html,css)]()
 
 ### On My Radar (Learning)
-* <span> <img height="48" width="48" src="https://cdn.simpleicons.org/celery"/> </span> Celery
+* Celery
 
 And I have plans to learn some of these cloud services:
 
