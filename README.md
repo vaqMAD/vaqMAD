@@ -46,10 +46,10 @@
 
 | Backend        | Databases & Caching | Testing & CI/CD          | Tools & Other       |
 | -------------- | ------------------- | ------------------------ | ------------------- |
-| [![My Skills](https://skillicons.dev/icons?i=py)]()Python         | PostgreSQL          | Pytest                   | Docker              |
-| Django         | Redis               | Unit & Integration Tests | Git & GitHub        |
-| Django REST FW |                     | CI/CD (basics)           | Linux               |
-| Celery (learning) |                  |                          |                     |
+| [![My Skills](https://skillicons.dev/icons?i=py)]() Python         | PostgreSQL          | Pytest                   | Docker              |
+| [![My Skills](https://skillicons.dev/icons?i=django)]() Django         | [![My Skills](https://skillicons.dev/icons?i=redis)]() Redis               | Unit & Integration Tests | Git & GitHub        |
+| Django REST Framework |                     | CI/CD (basics)           | Linux               |
+| <span> <img height="48" width="48" src="https://cdn.simpleicons.org/celery"/> </span> Celery (learning) |                  |                          |                     |
 
 ---
 
