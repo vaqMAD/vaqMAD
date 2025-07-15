@@ -58,9 +58,9 @@ I am also intrested in:
 ##  📫 Get In Touch:
 Feel free to reach out. I'm always open to chat about tech, new opportunities, or the meaning of life
 
-[![Linkedin Icon](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/damian-ignaczak/) [![Email Icon](https://skillicons.dev/icons?i=gmail)](mailto:damian.ignaczak.dev@gmail.com) 
-
 * **Email:** damian.ignaczak.dev@gmail.com
 * **LinkedIn:** [(https://www.linkedin.com/in/damian-ignaczak/)](https://www.linkedin.com/in/damian-ignaczak/)
+
+[![Linkedin Icon](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/damian-ignaczak/) [![Email Icon](https://skillicons.dev/icons?i=gmail)](mailto:damian.ignaczak.dev@gmail.com) 
 
 ---
