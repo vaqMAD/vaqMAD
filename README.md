@@ -15,8 +15,7 @@ Currently focusing on creating a project for my portfolio [TimeMate](https://git
 
 ## 🚀 Main Project: [TimeMate](https://github.com/vaqMAD/TimeMate)
 
-This is my current pride and joy – an API-first backend for time tracking. It's my answer to the question "what happens when you get obsessed with time objects in Python?".
-
+Every developer has that one topic that gives them nightmares. For me, it was dealing with datetime. So, I did the most logical thing: I built an entire API-first time tracking backend to finally make peace with it. This project is the result of that journey.
 **Highlights:**
 * **Architecture:** Clean, modular, and built on SOLID principles.
 * **Performance:** Intelligent caching with Redis.
