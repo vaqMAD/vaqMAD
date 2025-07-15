@@ -61,7 +61,7 @@
 
 ## 📫 Get In Touch
 
-* **LinkedIn:** [linkedin.com/in/damian-ignaczak-dev](https://www.linkedin.com/in/damian-ignaczak-dev)
+* **LinkedIn:** [[linkedin.com/in/damian-ignaczak-dev](https://www.linkedin.com/in/damian-ignaczak-dev)](https://www.linkedin.com/in/damian-ignaczak/)
 * **Email:** damian.ignaczak.dev@gmail.com
 
 
