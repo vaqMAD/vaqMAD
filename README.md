@@ -37,6 +37,12 @@ Here's a snapshot of the tools I use. This list is always evolving.
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,postgres,git,github,docker,redis,linux)]()
 [![My Skills](https://skillicons.dev/icons?i=flask,html,css)]()
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-ff9900?style=for-the-badge&logo=django)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 
 ### On My Radar (Learning)
 Celery
