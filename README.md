@@ -5,9 +5,10 @@
 
 <!-- About me section -->
 ## TL;DR: I build things with code. 
-For a few years, I worked as a manager in a SaaS startup. I've seen it all: burning deadlines, client calls at weird hours, and the magical mystery of a Wi-Fi printer that refuses to cooperate. It was fun, but I realized I prefer breaking down and building things myself.
+For a few years, I worked as a manager in a SaaS startup. I've seen it all: burning deadlines, client calls at weird hours, and the magical mystery of a Wi-Fi printer that refuses to cooperate. It was fun, but I realized I prefer to cast the spells myself, I enjoy breaking down and building things.
 
-That's why I'm here. I'm a **Python Developer** specializing in **Django**, and I love turning complex problems into clean, efficient code.
+That's why I'm here. I'm a **Python/Django Developer** by day and a  **Go enthusiast**, by night. I'm torn between Python's "let's write a beautiful one-liner" and Go's "let's be painfully explicit about this error." It's a daily battle between the poet and the paranoid engineer in my head. 
+
 Oh, and I firmly believe there are 10 types of people in the world: those who understand binary, and those who don't.
 
 ---
