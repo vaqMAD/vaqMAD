@@ -26,14 +26,14 @@ Here's a snapshot of the tools I use. This list is always evolving.
 | Django            | Redis               | Unit & Integration Tests | Git & GitHub        |
 | Django REST FW    |                     | CI/CD (basics)           | Linux               |
 | Celery (learning) |                     |                          | Design Patterns     |
-
+| Go                |                     |                          |                     |
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,postgres,git,github,docker,redis,linux)]()
 [![My Skills](https://skillicons.dev/icons?i=flask,html,css)]()
 
 
-### On My Radar (Learning)
-Celery
+### Learning
+Celery and Go
 
 And I have plans to learn some of these cloud services:
 
