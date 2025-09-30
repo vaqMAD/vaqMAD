@@ -4,7 +4,7 @@
 <!-- About me section -->
 ## TL;DR: I build things with code. 
 Hi ! I am Damian. 
-Backend developer building reliable services with **Python/Django** and **Go**.
+I'm a backend developer building reliable services with **Python/Django** and **Go**. Passionate Linux user and a firm believer in the open-source.
 
 ---
 
