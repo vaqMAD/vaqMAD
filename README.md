@@ -2,7 +2,7 @@
 # 👋 Hello World
 
 Hi ! I am Damian. 
-I'm a backend developer building reliable services with **Python/Django** and **Go**. Passionate Linux user and a firm believer in the open-source.
+I'm a backend developer building reliable services with **Python** and **Go**. Passionate Linux user and a firm believer in the open-source.
 
 ---
 
