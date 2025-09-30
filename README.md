@@ -8,7 +8,7 @@ Backend developer building reliable services with **Python/Django** and **Go**.
 
 ---
 
-## Main Project: [TimeMate](https://github.com/vaqMAD/TimeMate)]
+## Main Project: [TimeMate](https://github.com/vaqMAD/TimeMate)
 
 ---
 
