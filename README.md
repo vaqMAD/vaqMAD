@@ -12,7 +12,7 @@ Backend developer building reliable services with **Python/Django** and **Go**.
 
 ---
 
-## My Tech Stack
+## Tech Stack
 Here's a snapshot of the tools I use. This list is always evolving.
 
 | Backend           | Databases & Caching | Tools & Other       |
