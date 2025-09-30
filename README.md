@@ -39,8 +39,6 @@ And I have plans to learn some of these cloud services:
 
 [![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp)]()
 
-I am also intrested in:  
-[![GO](https://skillicons.dev/icons?i=go)]()
 
 ---
 
