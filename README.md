@@ -1,7 +1,7 @@
 <!-- Greeting section -->
 # 👋 Hello World
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=FF9900&width=435&lines=Hi+stranger+!;Welcome+to+my+profile;I'm+Damian%2C+Junior+Backend+Developer+;+from+Konin+Poland+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=FF9900&width=435&lines=Hi+stranger+!;Welcome+to+my+profile;I'm+Damian%2C+Backend+Developer+;+from+Konin+Poland+)](https://git.io/typing-svg)
 
 <!-- About me section -->
 ## TL;DR: I build things with code. 
@@ -13,19 +13,11 @@ Oh, and I firmly believe there are 10 types of people in the world: those who un
 
 ---
 
-## 🚀 Main Project: [TimeMate](https://github.com/vaqMAD/TimeMate)
-
-Every developer has that one topic that gives them nightmares. For me, it was dealing with datetime. So, I did the most logical thing: After questioning all my life choices that led me to this point, and briefly considering a career change to alpaca farming I built an entire API-first time tracking backend to finally make peace with it. This project is the result of that journey.
-Built from scratch, not a tutorial clone.
-**Highlights:**
-* **Architecture:** Clean, modular, and built on SOLID principles.
-* **Performance:** Intelligent caching with Redis.
-* **Reliability:** 99% test coverage. If it breaks, it's a feature. 😉
-* **Security:** UUIDs, database constraints, and custom permissions.
+## Main Project: [TimeMate](https://github.com/vaqMAD/TimeMate)
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 Here's a snapshot of the tools I use. This list is always evolving.
 
 | Backend           | Databases & Caching | Testing & CI/CD          | Tools & Other       |
