@@ -39,13 +39,13 @@ Here's a snapshot of the tools I use. This list is always evolving.
 
 ---
 
-## 🌱 Side Quests & Achievements
+##  Side Quests & Achievements
 
 * **Open Source Contribution:** Will Open Source save the world? I don't know... But I Hope so ! I'm proud to have a small contribution to the Django ecosystem by improving the official documentation ([Ticket #36026](https://code.djangoproject.com/ticket/36026)).
 
 ---
 
-##  📫 Get In Touch:
+##   Get In Touch:
 Feel free to reach out. I'm always open to chat about tech, new opportunities, or the meaning of life
 
 * **Email:** damian.ignaczak.dev@gmail.com
