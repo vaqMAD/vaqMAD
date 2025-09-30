@@ -17,7 +17,7 @@ Here's a snapshot of the tools I use. This list is always evolving.
 | ----------------- | ------------------- | ------------------- |
 | Python            | PostgreSQL          | Docker              |
 | Django            | Redis               | Git & GitHub        |
-| Django REST FW    |                     | Linux               |
+| DRF               | Linux               |                     |
 | Celery (learning) |                     |                     |
 | Go                |                     |                     |
 
