@@ -1,35 +1,28 @@
 <!-- Greeting section -->
 # 👋 Hello World
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=FF9900&width=435&lines=Hi+stranger+!;Welcome+to+my+profile;I'm+Damian%2C+Backend+Developer+;+from+Konin+Poland+)](https://git.io/typing-svg)
-
 <!-- About me section -->
 ## TL;DR: I build things with code. 
-For a few years, I worked as a manager in a SaaS startup. I've seen it all: burning deadlines, client calls at weird hours, and the magical mystery of a Wi-Fi printer that refuses to cooperate. It was a ride, but I realized I’d rather be the one casting the spells — building things from the ground up.
-
-That's why I'm here. By day, I’m a **Python/Django Developer**, by night **Go enthusiast**. Python’s “let’s write a clever one-liner” and Go’s “let’s be absurdly explicit about this error.” It’s a daily duel between the poet and the paranoid engineer in my head.
-
-Oh, and I firmly believe there are 10 types of people in the world: those who understand binary, and those who don't.
+Hi ! I am Damian. 
+Backend developer building reliable services with **Python/Django** and **Go**.
 
 ---
 
-## Main Project: [TimeMate](https://github.com/vaqMAD/TimeMate)
+## Main Project: [TimeMate](https://github.com/vaqMAD/TimeMate)]
 
 ---
 
 ## My Tech Stack
 Here's a snapshot of the tools I use. This list is always evolving.
 
-| Backend           | Databases & Caching | Testing & CI/CD          | Tools & Other       |
-| ----------------- | ------------------- | ------------------------ | ------------------- |
-| Python            | PostgreSQL          | Pytest                   | Docker              |
-| Django            | Redis               | Unit & Integration Tests | Git & GitHub        |
-| Django REST FW    |                     | CI/CD (basics)           | Linux               |
-| Celery (learning) |                     |                          | Design Patterns     |
-| Go                |                     |                          |                     |
+| Backend           | Databases & Caching | Tools & Other       |
+| ----------------- | ------------------- | ------------------- |
+| Python            | PostgreSQL          | Docker              |
+| Django            | Redis               | Git & GitHub        |
+| Django REST FW    |                     | Linux               |
+| Celery (learning) |                     |                     |
+| Go                |                     |                     |
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,git,github,docker,redis,linux)]()
-[![My Skills](https://skillicons.dev/icons?i=flask,html,css)]()
 
 
 ### Learning
@@ -39,13 +32,13 @@ Here's a snapshot of the tools I use. This list is always evolving.
 
 ---
 
-##  Side Quests & Achievements
+## Open Source Contributions
 
-* **Open Source Contribution:** Will Open Source save the world? I don't know... But I Hope so ! I'm proud to have a small contribution to the Django ecosystem by improving the official documentation ([Ticket #36026](https://code.djangoproject.com/ticket/36026)).
+* **Django** I'm proud to have contribution to the Django ecosystem by improving the official documentation ([Ticket #36026](https://code.djangoproject.com/ticket/36026)).
 
 ---
 
-##   Get In Touch:
+## 📫 Get In Touch:
 Feel free to reach out. I'm always open to chat about tech, new opportunities, or the meaning of life
 
 * **Email:** damian.ignaczak.dev@gmail.com
