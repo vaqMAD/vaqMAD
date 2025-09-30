@@ -55,7 +55,7 @@ I am also intrested in:
 ## 🌱 Side Quests & Achievements
 
 * **Open Source Contribution:** Will Open Source save the world? I don't know... But I Hope so ! I'm proud to have a small contribution to the Django ecosystem by improving the official documentation ([Ticket #36026](https://code.djangoproject.com/ticket/36026)).
-* **Real-World Problem Solving:** Created a **Proof of Concept** at my last company to automate a time-consuming process, reducing manual steps from ~80 to 2.
+
 ---
 
 ##  📫 Get In Touch:
