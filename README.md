@@ -27,6 +27,8 @@ Here's a snapshot of the tools I use. This list is always evolving.
 
 ### Learning
 
+Some of these:
+
 [![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp)]()
 
 
@@ -34,7 +36,8 @@ Here's a snapshot of the tools I use. This list is always evolving.
 
 ## Open Source Contributions
 
-* **Django** I'm proud to have contribution to the Django ecosystem by improving the official documentation ([Ticket #36026](https://code.djangoproject.com/ticket/36026)).
+* **Omarchy** You could find me hanging arround and contributing to Omarchy (https://github.com/basecamp/omarchy)
+* **Django** I'm proud to have contribution to the Django ecosystem by improving the official documentation (https://code.djangoproject.com/ticket/36026).
 
 ---
 
