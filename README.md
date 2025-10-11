@@ -36,7 +36,7 @@ Some of these:
 
 ## Open Source Contributions
 
-* **Omarchy** You could find me hanging arround and contributing to Omarchy (https://github.com/basecamp/omarchy)
+* **Omarchy** You could find me hanging around and contributing to Omarchy (https://github.com/basecamp/omarchy)
 * **Django** I'm proud to have contribution to the Django ecosystem by improving the official documentation (https://code.djangoproject.com/ticket/36026).
 
 ---
