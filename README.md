@@ -43,7 +43,7 @@ Some of these:
 
 ---
 
-## 📫 Get In Touch:
+## Get In Touch:
 Feel free to reach out. I'm always open to chat about tech, new opportunities, or the meaning of life
 
 * **Email:** damian.ignaczak.dev@gmail.com
