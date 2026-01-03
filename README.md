@@ -4,7 +4,7 @@
 
 I am Damian. Backend developer building reliable services with **Python** and **Go**. 
 
-Passionate Linux user and a firm believer in the open-source.
+Linux user and a firm believer in the open-source.
 
 You can find out more about me on my [website](https://vaqmad.github.io/portfolio/). 
 
@@ -31,7 +31,7 @@ Here's a snapshot of the tools I use. This list is always evolving.
 
 Some of these:
 
-[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp)]()
+AWS/GCP/AZURE
 
 
 ---
