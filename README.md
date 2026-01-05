@@ -29,9 +29,7 @@ Here's a snapshot of the tools I use. This list is always evolving.
 
 ### Learning
 
-Some of these:
-
-AWS/GCP/AZURE
+Some of these: AWS/GCP/AZURE
 
 
 ---
