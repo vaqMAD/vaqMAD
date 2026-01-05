@@ -20,10 +20,11 @@ Here's a snapshot of the tools I use. This list is always evolving.
 | Backend           | Databases & Caching | Tools & Other       |
 | ----------------- | ------------------- | ------------------- |
 | Python            | PostgreSQL          | Docker              |
-| Django            | Redis               | Git & GitHub        |
-| DRF               |                     | Linux               |
-| Celery (learning) |                     |                     |
-| Go                |                     |                     |
+| Go                |Redis                | Git                 |
+| Django            |                     | Linux               |
+| DRF               |                     |                     |
+| Celery            |                     |                     |
+
 
 
 
