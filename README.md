@@ -4,7 +4,7 @@
 
 I am Damian. Backend developer building reliable services with **Python** and **Go**. 
 
-Linux user and a firm believer in the open-source.
+Linux, Neovim user and a firm believer in the open-source.
 
 You can find out more about me on my [website](https://vaqmad.github.io/portfolio/). 
 
