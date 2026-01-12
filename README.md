@@ -2,7 +2,7 @@
 # 👋 Hello World
 
 
-I am Damian. Backend developer building reliable services with **Python** and **Go**. 
+I am Damian. Just a guy building reliable, performant projects, understand memory, and ultimately craft really awesome software with **Python** and **Go**.
 
 Linux, Neovim user and a firm believer in the open-source.
 
