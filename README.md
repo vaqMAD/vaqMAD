@@ -2,7 +2,7 @@
 # 👋 Hello World
 
 
-I am Damian. Just a guy building reliable, performant projects, understand memory, and ultimately craft really awesome software with **Python** and **Go**.
+I am Damian. Just a guy looking to build reliable, performant projects, understand memory, and ultimately craft really awesome software with **Python** and **Go**.
 
 Arch & Neovim user, and a firm believer in the **glorious** open-source.
 
@@ -17,20 +17,16 @@ You can find out more about me on my [website](https://vaqmad.github.io/portfoli
 ## Tech Stack
 Here's a snapshot of the tools I use. This list is always evolving.
 
-| Backend           | Databases & Caching | Tools & Other       |
-| ----------------- | ------------------- | ------------------- |
-| Python            | PostgreSQL          | Docker              |
-| Go                |Redis                | Git                 |
-| Django            |                     | Linux               |
-| DRF               |                     |                     |
-| Celery            |                     |                     |
+| Backend           | Data & Infrastructure | Workflow & Tools    |
+| ----------------- | --------------------- | ------------------- |
+| **Go (Golang)**   | SQL (PostgreSQL)      | Docker              |
+| **Python**        | Redis                 | Git                 |
+| Bash              | Celery                | Linux               |
 
 
+### Currently Exploring
 
-
-### Learning
-
-Some of these: AWS/GCP/AZURE
+* **Cloud Infrastructure** (AWS/GCP)
 
 
 ---
