@@ -4,7 +4,7 @@
 
 I am Damian. Just a guy looking to build reliable, performant projects, understand memory, and ultimately craft really awesome software with **Python** and **Go**.
 
-Arch & Neovim user, and a firm believer in the **glorious** open-source.
+Arch & Neovim user, and a firm believer in the **glorious open-source.**
 
 You can find out more about me on my [website](https://vaqmad.github.io/portfolio/). 
 
